@@ -4,7 +4,7 @@
 			"path": "."
 		},
 		{
-			"path": "../NetworkAlerts"
+			"path": "../ArmWidget"
 		}
 	],
 	"settings": {
